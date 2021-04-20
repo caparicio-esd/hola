@@ -1,0 +1,17 @@
+{
+  "name": "vite_test",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "sass": "^1.32.11",
+    "vite": "^2.1.5"
+  },
+  "dependencies": {
+    "aos": "^2.3.4",
+    "swiper": "^6.5.7"
+  }
+}
